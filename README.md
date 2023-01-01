@@ -1,6 +1,6 @@
 Hi 👋  I’m Emezue Chinonso
-- 🔭 I’m interested in Cloud Devops,Cloud Development,Cloud Solution and Architect and Cybersecurity
-- 🌱 I’m learning Python,Javascript and Cloud Devops
+- 🔭 I’m interested in Cloud Devops,Cloud Development,Web3.0 
+- 🌱 I’m learning Python,Javascript,Rust  and Cloud dev 
 - 👯 I’m looking to collaborate on project in Web/App Backend development and Cloud Development 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... cloud Devops,Cloud Development and Backend development
