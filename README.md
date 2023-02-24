@@ -1,5 +1,5 @@
 Hi 👋  I’m Emezue Chinonso
-- 🔭 I’m interested in Cloud Devops,React,Solidity
+- 🔭 I’m interested in Cloud Devops,Backend development,Solidity
 - 🌱 I’m learning Python,Javascript,Rust
 - 👯 I’m looking to collaborate on project in Web/App Fullstack development,Web3 and Cloud
 - 🤔 I’m looking for help with ... 
